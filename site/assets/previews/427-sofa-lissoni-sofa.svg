@@ -1,0 +1,909 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 566.93 566.93">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        stroke-width: .75px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+        stroke: #080808;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-2 {
+        stroke-dasharray: 0 0 1 3;
+      }
+
+      .cls-3, .cls-4 {
+        stroke-width: 1.5px;
+      }
+
+      .cls-4 {
+        fill: #fff;
+        fill-rule: evenodd;
+        stroke: #080808;
+      }
+    </style>
+  </defs>
+  <g id="Ground_Låst" data-name="Ground Låst">
+    <g id="POLYLINE">
+      <line class="cls-2" x1="28.35" y1="538.58" x2="538.58" y2="538.58"/>
+    </g>
+  </g>
+  <g id="Blocks_Fill" data-name="Blocks$Fill">
+    <g id="HATCH">
+      <path class="cls-4" d="M522.37,409.5l-4.49-4.49h-149.45s-4.49,4.49-4.49,4.49h0v16.02h-1.15v-2.1s0-.86,0-.86v-13.06l-4.49-4.49h-149.45s-4.49,4.49-4.49,4.49v16.02h-1.15v-16.02h0s-4.49-4.49-4.49-4.49H49.25s-4.49,4.49-4.49,4.49h0v16.89l-.58.58h0v17.34l-2.7-2.7h-10.24s-2.7,2.7-2.7,2.7v46.89s0,.19,0,.19v13.74l2.7,2.7h10.24s2.7-2.7,2.7-2.7v.87l1.44,1.44h15.55v30.47s2.7,0,2.7,0v-15.99s0,.43,0,.43h215.85s0,15.56,0,15.56h2.7v-15.56s215.85,0,215.85,0v15.31s0,.25,0,.25h2.7s0-.25,0-.25v-30.22s20.55,0,20.55,0l1.44-1.44v-.87l2.7,2.7h10.24s2.7-2.7,2.7-2.7v-54.09s0-6.73,0-6.73l-2.7-2.7h-10.24s-2.7,2.7-2.7,2.7v-17.34l-.58-.58v-16.89h0M279.72,517.67H63.87v-10.23h215.85v10.23M282.41,507.44h215.85v10.23s-215.85,0-215.85,0v-10.23Z"/>
+    </g>
+  </g>
+  <g id="Blocks_Inner" data-name="Blocks$Inner">
+    <g id="SPLINE">
+      <path class="cls-1" d="M49.25,422.56c0,.76,0,1.53,0,2.28s0,1.52,0,2.27"/>
+    </g>
+    <g id="SPLINE-2" data-name="SPLINE">
+      <path class="cls-1" d="M49.25,427.11c0,.75,0,1.51,0,2.26s0,1.5,0,2.24,0,1.49,0,2.25,0,1.53,0,2.31,0,1.56,0,2.34,0,1.55,0,2.32,0,1.55,0,2.31,0,1.52,0,2.27,0,1.5,0,2.26,0,1.51,0,2.28"/>
+    </g>
+    <g id="SPLINE-3" data-name="SPLINE">
+      <path class="cls-1" d="M517.88,449.95c0-.77,0-1.53,0-2.28s0-1.51,0-2.26,0-1.5,0-2.27,0-1.54,0-2.31,0-1.55,0-2.32,0-1.56,0-2.34,0-1.55,0-2.31,0-1.51,0-2.25,0-1.49,0-2.24,0-1.5,0-2.26"/>
+    </g>
+    <g id="SPLINE-4" data-name="SPLINE">
+      <path class="cls-1" d="M517.88,427.11c0-.75,0-1.51,0-2.27s0-1.53,0-2.28"/>
+    </g>
+    <g id="SPLINE-5" data-name="SPLINE">
+      <path class="cls-1" d="M208.84,422.56c0,.76,0,1.53,0,2.28s0,1.52,0,2.27"/>
+    </g>
+    <g id="SPLINE-6" data-name="SPLINE">
+      <path class="cls-1" d="M208.84,427.11c0,.75,0,1.51,0,2.26s0,1.5,0,2.24,0,1.49,0,2.25,0,1.53,0,2.31,0,1.56,0,2.34,0,1.55,0,2.32,0,1.55,0,2.31,0,1.52,0,2.27,0,1.5,0,2.26,0,1.51,0,2.28"/>
+    </g>
+    <g id="SPLINE-7" data-name="SPLINE">
+      <path class="cls-1" d="M363.32,465.76h0s0,0,0,0h0v6.14"/>
+    </g>
+    <g id="SPLINE-8" data-name="SPLINE">
+      <path class="cls-1" d="M363.32,471.9v16.38h0v.02"/>
+    </g>
+    <g id="POLYLINE-2" data-name="POLYLINE">
+      <polyline class="cls-1" points="363.32 488.3 361.16 490.45 205.97 490.45 203.81 488.3"/>
+    </g>
+    <g id="SPLINE-9" data-name="SPLINE">
+      <path class="cls-1" d="M203.81,488.3h0v-16.4"/>
+    </g>
+    <g id="SPLINE-10" data-name="SPLINE">
+      <path class="cls-1" d="M203.81,471.9v-6.12h0v-.02s0,0,0,0h0"/>
+    </g>
+    <g id="SPLINE-11" data-name="SPLINE">
+      <path class="cls-1" d="M203.73,465.76h0s0,0,0,0h0v6.14"/>
+    </g>
+    <g id="SPLINE-12" data-name="SPLINE">
+      <path class="cls-1" d="M203.73,471.9v16.38h0v.02"/>
+    </g>
+    <g id="POLYLINE-3" data-name="POLYLINE">
+      <polyline class="cls-1" points="203.73 488.3 201.58 490.45 46.38 490.45 44.22 488.3"/>
+    </g>
+    <g id="SPLINE-13" data-name="SPLINE">
+      <path class="cls-1" d="M44.22,488.3h0v-16.4"/>
+    </g>
+    <g id="SPLINE-14" data-name="SPLINE">
+      <path class="cls-1" d="M44.22,471.9v-6.12h0v-.02s0,0,0,0h0"/>
+    </g>
+    <g id="POLYLINE-4" data-name="POLYLINE">
+      <polyline class="cls-1" points="203.2 409.5 198.71 405.01 49.25 405.01 44.76 409.5"/>
+    </g>
+    <g id="POLYLINE-5" data-name="POLYLINE">
+      <polyline class="cls-1" points="522.37 409.5 517.88 405.01 368.42 405.01 363.93 409.5"/>
+    </g>
+    <g id="POLYLINE-6" data-name="POLYLINE">
+      <polyline class="cls-1" points="362.79 409.5 358.29 405.01 208.84 405.01 204.34 409.5"/>
+    </g>
+    <g id="POLYLINE-7" data-name="POLYLINE">
+      <polyline class="cls-1" points="522.91 465.75 520.75 463.6 365.55 463.6"/>
+    </g>
+    <g id="POLYLINE-8" data-name="POLYLINE">
+      <polyline class="cls-1" points="363.32 465.75 361.16 463.6 205.97 463.6 203.81 465.75"/>
+    </g>
+    <g id="POLYLINE-9" data-name="POLYLINE">
+      <polyline class="cls-1" points="203.73 465.75 201.58 463.6 46.38 463.6 44.22 465.75"/>
+    </g>
+    <g id="POLYLINE-10" data-name="POLYLINE">
+      <polyline class="cls-1" points="500.96 537.66 500.96 537.91 498.26 537.91 498.26 537.66"/>
+    </g>
+    <g id="POLYLINE-11" data-name="POLYLINE">
+      <polyline class="cls-1" points="63.87 499.83 63.87 537.91 61.17 537.91 61.17 499.83"/>
+    </g>
+    <g id="POLYLINE-12" data-name="POLYLINE">
+      <polyline class="cls-1" points="282.41 499.8 282.41 537.91 279.72 537.91 279.72 499.81"/>
+    </g>
+    <g id="SPLINE-15" data-name="SPLINE">
+      <path class="cls-1" d="M204.34,445.37v2.13"/>
+    </g>
+    <g id="SPLINE-16" data-name="SPLINE">
+      <path class="cls-1" d="M204.34,447.5v-2.13"/>
+    </g>
+    <g id="SPLINE-17" data-name="SPLINE">
+      <path class="cls-1" d="M44.76,445.37v2.13"/>
+    </g>
+    <g id="SPLINE-18" data-name="SPLINE">
+      <path class="cls-1" d="M44.76,447.5v-2.13"/>
+    </g>
+    <g id="SPLINE-19" data-name="SPLINE">
+      <path class="cls-1" d="M363.93,434.82v.37"/>
+    </g>
+    <g id="SPLINE-20" data-name="SPLINE">
+      <path class="cls-1" d="M363.93,435.19v-.37"/>
+    </g>
+    <g id="SPLINE-21" data-name="SPLINE">
+      <path class="cls-1" d="M363.93,436.05v.2"/>
+    </g>
+    <g id="SPLINE-22" data-name="SPLINE">
+      <path class="cls-1" d="M363.93,436.25v-.2"/>
+    </g>
+    <g id="SPLINE-23" data-name="SPLINE">
+      <path class="cls-1" d="M363.93,435.31v.12"/>
+    </g>
+    <g id="SPLINE-24" data-name="SPLINE">
+      <path class="cls-1" d="M363.93,435.43v-.12"/>
+    </g>
+    <g id="SPLINE-25" data-name="SPLINE">
+      <path class="cls-1" d="M363.93,433.83h0v.21"/>
+    </g>
+    <g id="SPLINE-26" data-name="SPLINE">
+      <path class="cls-1" d="M363.93,434.04v-.21"/>
+    </g>
+    <g id="SPLINE-27" data-name="SPLINE">
+      <path class="cls-1" d="M363.93,431.97v.24"/>
+    </g>
+    <g id="SPLINE-28" data-name="SPLINE">
+      <path class="cls-1" d="M363.93,432.21v-.24"/>
+    </g>
+    <g id="SPLINE-29" data-name="SPLINE">
+      <path class="cls-1" d="M44.76,447.54v.68"/>
+    </g>
+    <g id="SPLINE-30" data-name="SPLINE">
+      <path class="cls-1" d="M44.76,448.22v-.68"/>
+    </g>
+    <g id="SPLINE-31" data-name="SPLINE">
+      <path class="cls-1" d="M363.93,431.03v.7"/>
+    </g>
+    <g id="SPLINE-32" data-name="SPLINE">
+      <path class="cls-1" d="M363.93,431.74v-.7"/>
+    </g>
+    <g id="SPLINE-33" data-name="SPLINE">
+      <path class="cls-1" d="M363.93,422.56v.86"/>
+    </g>
+    <g id="SPLINE-34" data-name="SPLINE">
+      <path class="cls-1" d="M363.93,423.42v-.86"/>
+    </g>
+    <g id="SPLINE-35" data-name="SPLINE">
+      <path class="cls-1" d="M204.34,447.54v.68"/>
+    </g>
+    <g id="SPLINE-36" data-name="SPLINE">
+      <path class="cls-1" d="M204.34,448.22v-.68"/>
+    </g>
+    <g id="SPLINE-37" data-name="SPLINE">
+      <path class="cls-1" d="M44.76,448.24v.13"/>
+    </g>
+    <g id="SPLINE-38" data-name="SPLINE">
+      <path class="cls-1" d="M44.76,448.37v-.13"/>
+    </g>
+    <g id="SPLINE-39" data-name="SPLINE">
+      <path class="cls-1" d="M363.93,433.26v.43"/>
+    </g>
+    <g id="SPLINE-40" data-name="SPLINE">
+      <path class="cls-1" d="M363.93,433.69v-.43"/>
+    </g>
+    <g id="SPLINE-41" data-name="SPLINE">
+      <path class="cls-1" d="M363.93,432.44v.35"/>
+    </g>
+    <g id="SPLINE-42" data-name="SPLINE">
+      <path class="cls-1" d="M363.93,432.79v-.35"/>
+    </g>
+    <g id="SPLINE-43" data-name="SPLINE">
+      <path class="cls-1" d="M363.93,423.59v7.32h0"/>
+    </g>
+    <g id="SPLINE-44" data-name="SPLINE">
+      <path class="cls-1" d="M363.93,430.91v-7.33"/>
+    </g>
+    <g id="SPLINE-45" data-name="SPLINE">
+      <path class="cls-1" d="M363.93,422.22v.11"/>
+    </g>
+    <g id="SPLINE-46" data-name="SPLINE">
+      <path class="cls-1" d="M363.93,422.33v-.11"/>
+    </g>
+    <g id="POLYLINE-13" data-name="POLYLINE">
+      <polyline class="cls-1" points="61.17 499.9 45.62 499.9 44.18 498.47"/>
+    </g>
+    <g id="POLYLINE-14" data-name="POLYLINE">
+      <polyline class="cls-1" points="522.95 498.47 521.51 499.9 500.96 499.9"/>
+    </g>
+    <g id="POLYLINE-15" data-name="POLYLINE">
+      <polyline class="cls-1" points="498.26 499.84 498.26 537.66 500.96 537.66 500.96 499.85"/>
+    </g>
+    <g id="SPLINE-47" data-name="SPLINE">
+      <path class="cls-1" d="M204.34,448.24v.13"/>
+    </g>
+    <g id="SPLINE-48" data-name="SPLINE">
+      <path class="cls-1" d="M204.34,448.37v-.13"/>
+    </g>
+    <g id="SPLINE-49" data-name="SPLINE">
+      <path class="cls-1" d="M44.76,459.16c-.07.01-.14.02-.22.04-.12.02-.24.04-.36.06"/>
+    </g>
+    <g id="POLYLINE-16" data-name="POLYLINE">
+      <polyline class="cls-1" points="44.18 459.26 44.54 459.2 44.76 459.16"/>
+    </g>
+    <g id="POLYLINE-17" data-name="POLYLINE">
+      <polyline class="cls-1" points="522.37 459.16 522.59 459.2 522.95 459.26"/>
+    </g>
+    <g id="SPLINE-50" data-name="SPLINE">
+      <path class="cls-1" d="M522.95,459.26c-.12-.02-.24-.04-.36-.06-.07-.01-.14-.02-.22-.04"/>
+    </g>
+    <g id="POLYLINE-18" data-name="POLYLINE">
+      <polyline class="cls-1" points="45.61 489.68 44.18 491.11 44.18 429.84"/>
+    </g>
+    <g id="SPLINE-51" data-name="SPLINE">
+      <path class="cls-1" d="M44.18,429.84v-2.87h0s0-.01,0-.01h0v.72h0v.02h0v.02h0v.02h0v.02h0v1.54"/>
+    </g>
+    <g id="SPLINE-52" data-name="SPLINE">
+      <path class="cls-1" d="M365.55,490.42s0,.03,0,.04c0,0,0-.02,0-.08s0-.16,0-.31,0-.34,0-.57c0-.11,0-.24,0-.37s0-.27,0-.41c0-.29,0-.61,0-.95,0-.17,0-.34,0-.52s0-.36,0-.55c0-.38,0-.77,0-1.18s0-.84,0-1.29,0-.9,0-1.37c0-.23,0-.47,0-.7s0-.47,0-.71c0-.48,0-.95,0-1.43s0-.95,0-1.42,0-.94,0-1.41,0-.94,0-1.4,0-.93,0-1.39,0-.91,0-1.34,0-.85,0-1.26,0-.8,0-1.18"/>
+    </g>
+    <g id="SPLINE-53" data-name="SPLINE">
+      <path class="cls-1" d="M365.55,470.62c0-.15,0-.29,0-.43s0-.29,0-.44,0-.31,0-.47,0-.34,0-.5,0-.31,0-.46,0-.28,0-.41c0-.26,0-.5,0-.72s0-.44,0-.65,0-.4,0-.58,0-.35,0-.51,0-.31,0-.44c0-.27,0-.5,0-.69s0-.34,0-.45,0-.18,0-.22,0-.05,0-.05"/>
+    </g>
+    <g id="LINE">
+      <line class="cls-1" x1="365.55" y1="463.6" x2="363.4" y2="465.75"/>
+    </g>
+    <g id="SPLINE-54" data-name="SPLINE">
+      <path class="cls-1" d="M522.91,465.76h0s0,0,0,0h0v6.14"/>
+    </g>
+    <g id="SPLINE-55" data-name="SPLINE">
+      <path class="cls-1" d="M522.91,471.9v16.38h0v.02"/>
+    </g>
+    <g id="POLYLINE-19" data-name="POLYLINE">
+      <polyline class="cls-1" points="522.91 488.3 520.75 490.45 365.55 490.45 363.4 488.3"/>
+    </g>
+    <g id="SPLINE-56" data-name="SPLINE">
+      <path class="cls-1" d="M363.4,488.3h0v-16.4"/>
+    </g>
+    <g id="SPLINE-57" data-name="SPLINE">
+      <path class="cls-1" d="M363.4,471.9v-6.12h0v-.02s0,0,0,0h0"/>
+    </g>
+    <g id="SPLINE-58" data-name="SPLINE">
+      <path class="cls-1" d="M520.75,490.42s0,.03,0,.04c0,0,0-.02,0-.08s0-.16,0-.31,0-.34,0-.57c0-.11,0-.24,0-.37s0-.27,0-.41c0-.29,0-.61,0-.95,0-.17,0-.34,0-.52s0-.36,0-.55c0-.38,0-.77,0-1.18s0-.84,0-1.29,0-.9,0-1.37c0-.23,0-.47,0-.7s0-.47,0-.71c0-.48,0-.95,0-1.43s0-.95,0-1.42,0-.94,0-1.41,0-.94,0-1.4,0-.93,0-1.39,0-.91,0-1.34,0-.85,0-1.26,0-.8,0-1.18"/>
+    </g>
+    <g id="SPLINE-59" data-name="SPLINE">
+      <path class="cls-1" d="M520.75,470.62c0-.16,0-.33,0-.49s0-.32,0-.48,0-.32,0-.47,0-.3,0-.45c0-.29,0-.56,0-.81s0-.5,0-.72c0-.46,0-.86,0-1.23s0-.68,0-.95c0-.55,0-.93,0-1.15,0-.11,0-.18,0-.22s0-.05,0-.05"/>
+    </g>
+    <g id="SPLINE-60" data-name="SPLINE">
+      <path class="cls-1" d="M522.95,427.4v-.43h0s0-.01,0,0h0v2.87"/>
+    </g>
+    <g id="POLYLINE-20" data-name="POLYLINE">
+      <polyline class="cls-1" points="522.95 429.84 522.95 491.11 521.52 489.68"/>
+    </g>
+    <g id="SPLINE-61" data-name="SPLINE">
+      <path class="cls-1" d="M44.76,465.22v-54.6"/>
+    </g>
+    <g id="SPLINE-62" data-name="SPLINE">
+      <path class="cls-1" d="M44.76,410.62v-1.11h0s0,0,0,0h0v.06h0"/>
+    </g>
+    <g id="SPLINE-63" data-name="SPLINE">
+      <path class="cls-1" d="M49.25,405.02s0-.01,0-.01c0,0,0,.02,0,.05s0,.07,0,.13c0,.11,0,.26,0,.46s0,.45,0,.74"/>
+    </g>
+    <g id="SPLINE-64" data-name="SPLINE">
+      <path class="cls-1" d="M49.25,406.39c0,.3,0,.64,0,1.07"/>
+    </g>
+    <g id="SPLINE-65" data-name="SPLINE">
+      <path class="cls-1" d="M198.71,405.01s0,0,0,0c0,0,0,.01,0,.02"/>
+    </g>
+    <g id="SPLINE-66" data-name="SPLINE">
+      <path class="cls-1" d="M198.71,405.04s0-.02,0-.02c0,0,0,0,0,0"/>
+    </g>
+    <g id="SPLINE-67" data-name="SPLINE">
+      <path class="cls-1" d="M198.71,405.01s0,0,0,0,0,.01,0,.02c0,.02,0,.05,0,.09s0,.09,0,.15,0,.12,0,.2,0,.16,0,.25c0,.18,0,.4,0,.66"/>
+    </g>
+    <g id="SPLINE-68" data-name="SPLINE">
+      <path class="cls-1" d="M198.71,406.39c0,.11,0,.23,0,.38,0,.07,0,.15,0,.24s0,.18,0,.28c0,.05,0,.1,0,.16s0,.12,0,.18,0,.12,0,.18,0,.12,0,.18c0,.12,0,.23,0,.34s0,.22,0,.32,0,.2,0,.31,0,.22,0,.34,0,.24,0,.38,0,.28,0,.43c0,.08,0,.16,0,.24s0,.17,0,.26c0,.17,0,.34,0,.5s0,.32,0,.47,0,.3,0,.45,0,.29,0,.43,0,.28,0,.41,0,.27,0,.41,0,.28,0,.42c0,.29,0,.58,0,.88s0,.61,0,.92c0,.62,0,1.25,0,1.89,0,.32,0,.65,0,.99s0,.68,0,1.02c0,.69,0,1.39,0,2.1s0,1.43,0,2.15,0,1.45,0,2.18,0,1.44,0,2.16,0,1.44,0,2.15,0,1.43,0,2.14,0,1.43,0,2.16,0,1.46,0,2.21,0,1.5,0,2.24,0,1.48,0,2.21c0,.37,0,.74,0,1.11s0,.74,0,1.1,0,.73,0,1.08,0,.7,0,1.06,0,.71,0,1.07,0,.73,0,1.1c0,.74,0,1.49,0,2.23s0,1.48,0,2.25c0,.38,0,.77,0,1.16s0,.78,0,1.17,0,.79,0,1.18,0,.78,0,1.17c0,.78,0,1.56,0,2.35,0,.4,0,.79,0,1.19s0,.79,0,1.17c0,.71,0,1.41,0,2.1"/>
+    </g>
+    <g id="SPLINE-69" data-name="SPLINE">
+      <path class="cls-1" d="M203.2,422.33v-.11"/>
+    </g>
+    <g id="SPLINE-70" data-name="SPLINE">
+      <path class="cls-1" d="M203.2,422.22v.11"/>
+    </g>
+    <g id="SPLINE-71" data-name="SPLINE">
+      <path class="cls-1" d="M203.2,423.42v-.86"/>
+    </g>
+    <g id="SPLINE-72" data-name="SPLINE">
+      <path class="cls-1" d="M203.2,422.56v.86"/>
+    </g>
+    <g id="SPLINE-73" data-name="SPLINE">
+      <path class="cls-1" d="M203.2,430.91h0c0-.17,0-.34,0-.5,0-.16,0-.33,0-.49s0-.33,0-.49v-5.85"/>
+    </g>
+    <g id="SPLINE-74" data-name="SPLINE">
+      <path class="cls-1" d="M203.2,423.59v5.85c0,.16,0,.33,0,.49s0,.33,0,.49c0,.16,0,.33,0,.49h0"/>
+    </g>
+    <g id="SPLINE-75" data-name="SPLINE">
+      <path class="cls-1" d="M203.2,431.74v-.7"/>
+    </g>
+    <g id="SPLINE-76" data-name="SPLINE">
+      <path class="cls-1" d="M203.2,431.03v.7"/>
+    </g>
+    <g id="SPLINE-77" data-name="SPLINE">
+      <path class="cls-1" d="M203.2,432.21v-.24"/>
+    </g>
+    <g id="SPLINE-78" data-name="SPLINE">
+      <path class="cls-1" d="M203.2,431.97v.24"/>
+    </g>
+    <g id="SPLINE-79" data-name="SPLINE">
+      <path class="cls-1" d="M203.2,432.79v-.35"/>
+    </g>
+    <g id="SPLINE-80" data-name="SPLINE">
+      <path class="cls-1" d="M203.2,432.44v.35"/>
+    </g>
+    <g id="SPLINE-81" data-name="SPLINE">
+      <path class="cls-1" d="M203.2,433.69v-.43"/>
+    </g>
+    <g id="SPLINE-82" data-name="SPLINE">
+      <path class="cls-1" d="M203.2,433.26v.43"/>
+    </g>
+    <g id="SPLINE-83" data-name="SPLINE">
+      <path class="cls-1" d="M203.2,434.04v-.21h0"/>
+    </g>
+    <g id="SPLINE-84" data-name="SPLINE">
+      <path class="cls-1" d="M203.2,433.83h0v.21"/>
+    </g>
+    <g id="SPLINE-85" data-name="SPLINE">
+      <path class="cls-1" d="M203.2,435.19v-.37"/>
+    </g>
+    <g id="SPLINE-86" data-name="SPLINE">
+      <path class="cls-1" d="M203.2,434.82v.37"/>
+    </g>
+    <g id="SPLINE-87" data-name="SPLINE">
+      <path class="cls-1" d="M203.2,435.43v-.12"/>
+    </g>
+    <g id="SPLINE-88" data-name="SPLINE">
+      <path class="cls-1" d="M203.2,435.31v.12"/>
+    </g>
+    <g id="SPLINE-89" data-name="SPLINE">
+      <path class="cls-1" d="M203.2,436.25v-.2"/>
+    </g>
+    <g id="SPLINE-90" data-name="SPLINE">
+      <path class="cls-1" d="M203.2,436.05v.2"/>
+    </g>
+    <g id="SPLINE-91" data-name="SPLINE">
+      <path class="cls-1" d="M203.2,409.57h0v-.04h0v-.02h0s0,0,0,0h0v1.11"/>
+    </g>
+    <g id="SPLINE-92" data-name="SPLINE">
+      <path class="cls-1" d="M203.2,410.62v43.06c0,.73,0,1.47,0,2.21v9.33"/>
+    </g>
+    <g id="SPLINE-93" data-name="SPLINE">
+      <path class="cls-1" d="M361.16,490.42s0,.03,0,.04c0,0,0-.02,0-.08s0-.16,0-.31,0-.34,0-.57c0-.11,0-.24,0-.37s0-.27,0-.41c0-.29,0-.61,0-.95,0-.17,0-.34,0-.52s0-.36,0-.55c0-.38,0-.77,0-1.18s0-.84,0-1.29,0-.9,0-1.37c0-.23,0-.47,0-.7s0-.47,0-.71c0-.48,0-.95,0-1.43s0-.95,0-1.42,0-.94,0-1.41,0-.94,0-1.4,0-.93,0-1.39,0-.91,0-1.34,0-.85,0-1.26,0-.8,0-1.18"/>
+    </g>
+    <g id="SPLINE-94" data-name="SPLINE">
+      <path class="cls-1" d="M361.16,470.62c0-.16,0-.33,0-.49s0-.32,0-.48,0-.32,0-.47,0-.3,0-.45c0-.29,0-.56,0-.81s0-.5,0-.72c0-.46,0-.86,0-1.23s0-.68,0-.95c0-.55,0-.93,0-1.15,0-.11,0-.18,0-.22s0-.05,0-.05"/>
+    </g>
+    <g id="SPLINE-95" data-name="SPLINE">
+      <path class="cls-1" d="M205.97,463.6s0,.01,0,.05,0,.11,0,.22c0,.22,0,.6,0,1.15,0,.27,0,.59,0,.95s0,.77,0,1.23c0,.23,0,.47,0,.72s0,.52,0,.81c0,.14,0,.29,0,.45s0,.31,0,.47,0,.32,0,.48,0,.33,0,.49"/>
+    </g>
+    <g id="SPLINE-96" data-name="SPLINE">
+      <path class="cls-1" d="M205.97,470.62c0,.39,0,.78,0,1.18s0,.83,0,1.26,0,.88,0,1.34,0,.92,0,1.39,0,.94,0,1.4,0,.94,0,1.41,0,.94,0,1.42,0,.95,0,1.43c0,.24,0,.47,0,.71s0,.47,0,.7c0,.47,0,.92,0,1.37s0,.87,0,1.29,0,.8,0,1.18c0,.19,0,.37,0,.55s0,.35,0,.52c0,.34,0,.66,0,.95,0,.15,0,.28,0,.41s0,.25,0,.37c0,.23,0,.42,0,.57s0,.25,0,.31,0,.08,0,.08c0,0,0-.02,0-.04"/>
+    </g>
+    <g id="SPLINE-97" data-name="SPLINE">
+      <path class="cls-1" d="M201.58,490.42s0,.03,0,.04c0,0,0-.02,0-.08s0-.16,0-.31,0-.34,0-.57c0-.11,0-.24,0-.37s0-.27,0-.41c0-.29,0-.61,0-.95,0-.17,0-.34,0-.52s0-.36,0-.55c0-.38,0-.77,0-1.18s0-.84,0-1.29,0-.9,0-1.37c0-.23,0-.47,0-.7s0-.47,0-.71c0-.48,0-.95,0-1.43s0-.95,0-1.42,0-.94,0-1.41,0-.94,0-1.4,0-.93,0-1.39,0-.91,0-1.34,0-.85,0-1.26,0-.8,0-1.18"/>
+    </g>
+    <g id="SPLINE-98" data-name="SPLINE">
+      <path class="cls-1" d="M201.58,470.62c0-.16,0-.33,0-.49s0-.32,0-.48,0-.32,0-.47,0-.3,0-.45c0-.29,0-.56,0-.81s0-.5,0-.72c0-.46,0-.86,0-1.23s0-.68,0-.95c0-.55,0-.93,0-1.15,0-.11,0-.18,0-.22s0-.05,0-.05"/>
+    </g>
+    <g id="SPLINE-99" data-name="SPLINE">
+      <path class="cls-1" d="M46.38,463.6s0,.01,0,.05,0,.11,0,.22c0,.22,0,.6,0,1.15,0,.27,0,.59,0,.95s0,.77,0,1.23c0,.23,0,.47,0,.72s0,.52,0,.81c0,.14,0,.29,0,.45s0,.31,0,.47,0,.32,0,.48,0,.33,0,.49"/>
+    </g>
+    <g id="SPLINE-100" data-name="SPLINE">
+      <path class="cls-1" d="M46.38,470.62c0,.39,0,.78,0,1.18s0,.83,0,1.26,0,.88,0,1.34,0,.92,0,1.39,0,.94,0,1.4,0,.94,0,1.41,0,.94,0,1.42,0,.95,0,1.43c0,.24,0,.47,0,.71s0,.47,0,.7c0,.47,0,.92,0,1.37s0,.87,0,1.29,0,.8,0,1.18c0,.19,0,.37,0,.55s0,.35,0,.52c0,.34,0,.66,0,.95,0,.15,0,.28,0,.41s0,.25,0,.37c0,.23,0,.42,0,.57s0,.25,0,.31,0,.08,0,.08c0,0,0-.02,0-.04"/>
+    </g>
+    <g id="SPLINE-101" data-name="SPLINE">
+      <path class="cls-1" d="M522.37,447.5v-.2c0-.64,0-1.28,0-1.92"/>
+    </g>
+    <g id="SPLINE-102" data-name="SPLINE">
+      <path class="cls-1" d="M522.37,445.37c0,.64,0,1.28,0,1.92v.2"/>
+    </g>
+    <g id="SPLINE-103" data-name="SPLINE">
+      <path class="cls-1" d="M522.37,448.22v-.68"/>
+    </g>
+    <g id="SPLINE-104" data-name="SPLINE">
+      <path class="cls-1" d="M522.37,447.54v.68"/>
+    </g>
+    <g id="SPLINE-105" data-name="SPLINE">
+      <path class="cls-1" d="M522.37,448.37v-.13"/>
+    </g>
+    <g id="SPLINE-106" data-name="SPLINE">
+      <path class="cls-1" d="M522.37,448.24v.13"/>
+    </g>
+    <g id="SPLINE-107" data-name="SPLINE">
+      <path class="cls-1" d="M522.37,409.57h0v-.04h0v-.02h0s0,0,0,0h0v1.11"/>
+    </g>
+    <g id="SPLINE-108" data-name="SPLINE">
+      <path class="cls-1" d="M522.37,410.62v43.06c0,.73,0,1.47,0,2.21v.86c0,.8,0,1.61,0,2.41v6.06"/>
+    </g>
+    <g id="SPLINE-109" data-name="SPLINE">
+      <path class="cls-1" d="M517.88,407.46c0-.43,0-.77,0-1.07"/>
+    </g>
+    <g id="SPLINE-110" data-name="SPLINE">
+      <path class="cls-1" d="M517.88,406.39c0-.29,0-.54,0-.74s0-.36,0-.46c0-.05,0-.1,0-.13s0-.05,0-.05c0,0,0,0,0,.01"/>
+    </g>
+    <g id="SPLINE-111" data-name="SPLINE">
+      <path class="cls-1" d="M368.42,463.62c0-.7,0-1.41,0-2.12,0-.39,0-.78,0-1.17s0-.79,0-1.19c0-.79,0-1.58,0-2.35,0-.39,0-.78,0-1.17s0-.79,0-1.18,0-.78,0-1.17,0-.78,0-1.16c0-.77,0-1.5,0-2.25s0-1.49,0-2.23c0-.37,0-.74,0-1.1s0-.72,0-1.07,0-.7,0-1.06,0-.72,0-1.08,0-.73,0-1.1,0-.74,0-1.11c0-.74,0-1.47,0-2.21s0-1.5,0-2.24,0-1.48,0-2.21,0-1.44,0-2.16,0-1.42,0-2.14,0-1.43,0-2.15,0-1.44,0-2.16,0-1.45,0-2.18,0-1.44,0-2.15c0-.36,0-.71,0-1.06s0-.7,0-1.05,0-.69,0-1.02,0-.66,0-.99,0-.64,0-.96,0-.63,0-.94,0-.62,0-.92,0-.59,0-.88c0-.14,0-.28,0-.42s0-.27,0-.41,0-.27,0-.41,0-.28,0-.43,0-.3,0-.45,0-.31,0-.47,0-.33,0-.5c0-.09,0-.17,0-.26s0-.16,0-.24c0-.15,0-.3,0-.43s0-.26,0-.38,0-.23,0-.34,0-.21,0-.31,0-.21,0-.32,0-.22,0-.34c0-.06,0-.12,0-.18v-.18c0-.06,0-.12,0-.18s0-.11,0-.16c0-.1,0-.2,0-.28s0-.16,0-.24c0-.15,0-.27,0-.38"/>
+    </g>
+    <g id="SPLINE-112" data-name="SPLINE">
+      <path class="cls-1" d="M368.42,406.39c0-.25,0-.47,0-.66,0-.09,0-.17,0-.25s0-.14,0-.2,0-.11,0-.15,0-.07,0-.09c0-.01,0-.02,0-.02s0,0,0,0"/>
+    </g>
+    <g id="SPLINE-113" data-name="SPLINE">
+      <path class="cls-1" d="M363.93,465.22v-54.6"/>
+    </g>
+    <g id="SPLINE-114" data-name="SPLINE">
+      <path class="cls-1" d="M363.93,410.62v-1.11h0s0,0,0,0h0v.06h0"/>
+    </g>
+    <g id="SPLINE-115" data-name="SPLINE">
+      <path class="cls-1" d="M44.18,429.5v.16"/>
+    </g>
+    <g id="SPLINE-116" data-name="SPLINE">
+      <path class="cls-1" d="M44.18,429.67v-.16"/>
+    </g>
+    <g id="LINE-2" data-name="LINE">
+      <line class="cls-1" x1="45.62" y1="489.69" x2="45.62" y2="507.37"/>
+    </g>
+    <g id="SPLINE-117" data-name="SPLINE">
+      <path class="cls-1" d="M45.62,507.37s0,.03,0,.04,0,.02,0,.03"/>
+    </g>
+    <g id="SPLINE-118" data-name="SPLINE">
+      <path class="cls-1" d="M521.51,489.69h0s0,.02,0,.04,0,.03,0,.06,0,.05,0,.09,0,.07,0,.12,0,.11,0,.18,0,.17,0,.27,0,.21,0,.33,0,.25,0,.39,0,.29,0,.44,0,.31,0,.48,0,.34,0,.52,0,.37,0,.57,0,.4,0,.61,0,.41,0,.61,0,.4,0,.61,0,.4,0,.61,0,.41,0,.62,0,.4,0,.6c0,.29,0,.56,0,.81s0,.49,0,.71,0,.43,0,.61,0,.33,0,.46c0,.06,0,.12,0,.17s0,.09,0,.13,0,.06,0,.08c0,.01,0,.02,0,.02s0,.01,0,.01,0,0,0,0,0,0,0,0h0s0,0,0,.01,0,0,0,.01,0,0,0,0c0,0,0,0,0,.01"/>
+    </g>
+    <g id="POLYLINE-21" data-name="POLYLINE">
+      <line class="cls-1" x1="521.51" y1="499.9" x2="521.51" y2="507.37"/>
+    </g>
+    <g id="SPLINE-119" data-name="SPLINE">
+      <path class="cls-1" d="M521.51,507.37s0,.02,0,.03c0,0,0,.01,0,.02s0,.01,0,.01"/>
+    </g>
+    <g id="SPLINE-120" data-name="SPLINE">
+      <path class="cls-1" d="M204.34,465.22v-54.6"/>
+    </g>
+    <g id="SPLINE-121" data-name="SPLINE">
+      <path class="cls-1" d="M204.34,410.62v-1.11h0s0,0,0,0h0,0,0v.06h0"/>
+    </g>
+    <g id="SPLINE-122" data-name="SPLINE">
+      <path class="cls-1" d="M208.84,405.02s0-.01,0-.01c0,0,0,.02,0,.05s0,.07,0,.13c0,.11,0,.26,0,.46s0,.45,0,.74"/>
+    </g>
+    <g id="SPLINE-123" data-name="SPLINE">
+      <path class="cls-1" d="M208.84,406.39c0,.3,0,.64,0,1.07"/>
+    </g>
+    <g id="SPLINE-124" data-name="SPLINE">
+      <path class="cls-1" d="M358.29,405.01s0,0,0,0c0,0,0,.01,0,.02"/>
+    </g>
+    <g id="SPLINE-125" data-name="SPLINE">
+      <path class="cls-1" d="M358.29,405.04s0-.02,0-.02c0,0,0,0,0,0"/>
+    </g>
+    <g id="SPLINE-126" data-name="SPLINE">
+      <path class="cls-1" d="M358.29,405.01s0,0,0,0,0,.01,0,.02c0,.02,0,.05,0,.09s0,.09,0,.15,0,.12,0,.2,0,.16,0,.25c0,.18,0,.4,0,.66"/>
+    </g>
+    <g id="SPLINE-127" data-name="SPLINE">
+      <path class="cls-1" d="M358.29,406.39c0,.11,0,.23,0,.38,0,.07,0,.15,0,.24s0,.18,0,.28c0,.05,0,.1,0,.16s0,.12,0,.18,0,.12,0,.18,0,.12,0,.18c0,.12,0,.23,0,.34s0,.22,0,.32,0,.2,0,.31,0,.22,0,.34,0,.24,0,.38,0,.28,0,.43c0,.08,0,.16,0,.24s0,.17,0,.26c0,.17,0,.34,0,.5s0,.32,0,.47,0,.3,0,.45,0,.29,0,.43,0,.28,0,.41,0,.27,0,.41,0,.28,0,.42c0,.29,0,.58,0,.88s0,.61,0,.92c0,.62,0,1.25,0,1.89,0,.32,0,.65,0,.99s0,.68,0,1.02c0,.69,0,1.39,0,2.1s0,1.43,0,2.15,0,1.45,0,2.18,0,1.44,0,2.16,0,1.44,0,2.15,0,1.43,0,2.14,0,1.43,0,2.16,0,1.46,0,2.21,0,1.5,0,2.24,0,1.48,0,2.21c0,.37,0,.74,0,1.11s0,.74,0,1.1,0,.73,0,1.08,0,.7,0,1.06,0,.71,0,1.07,0,.73,0,1.1c0,.74,0,1.49,0,2.23s0,1.48,0,2.25c0,.38,0,.77,0,1.16s0,.78,0,1.17,0,.79,0,1.18,0,.78,0,1.17c0,.78,0,1.56,0,2.35,0,.4,0,.79,0,1.19s0,.79,0,1.17c0,.71,0,1.41,0,2.1"/>
+    </g>
+    <g id="SPLINE-128" data-name="SPLINE">
+      <path class="cls-1" d="M362.79,422.33v-.11"/>
+    </g>
+    <g id="SPLINE-129" data-name="SPLINE">
+      <path class="cls-1" d="M362.79,422.22v.11"/>
+    </g>
+    <g id="SPLINE-130" data-name="SPLINE">
+      <path class="cls-1" d="M362.79,423.42v-.86"/>
+    </g>
+    <g id="SPLINE-131" data-name="SPLINE">
+      <path class="cls-1" d="M362.79,422.56v.86"/>
+    </g>
+    <g id="SPLINE-132" data-name="SPLINE">
+      <path class="cls-1" d="M362.79,430.91h0c0-.17,0-.34,0-.5,0-.16,0-.33,0-.49v-2.93c0-.32,0-.64,0-.96v-2.44"/>
+    </g>
+    <g id="SPLINE-133" data-name="SPLINE">
+      <path class="cls-1" d="M362.79,423.59v6.34c0,.16,0,.33,0,.49,0,.16,0,.33,0,.49h0"/>
+    </g>
+    <g id="SPLINE-134" data-name="SPLINE">
+      <path class="cls-1" d="M362.79,431.74v-.7"/>
+    </g>
+    <g id="SPLINE-135" data-name="SPLINE">
+      <path class="cls-1" d="M362.79,431.03v.7"/>
+    </g>
+    <g id="SPLINE-136" data-name="SPLINE">
+      <path class="cls-1" d="M362.79,432.21v-.24"/>
+    </g>
+    <g id="SPLINE-137" data-name="SPLINE">
+      <path class="cls-1" d="M362.79,431.97v.24"/>
+    </g>
+    <g id="SPLINE-138" data-name="SPLINE">
+      <path class="cls-1" d="M362.79,432.79v-.35"/>
+    </g>
+    <g id="SPLINE-139" data-name="SPLINE">
+      <path class="cls-1" d="M362.79,432.44v.35"/>
+    </g>
+    <g id="SPLINE-140" data-name="SPLINE">
+      <path class="cls-1" d="M362.79,433.69v-.43"/>
+    </g>
+    <g id="SPLINE-141" data-name="SPLINE">
+      <path class="cls-1" d="M362.79,433.26v.43"/>
+    </g>
+    <g id="SPLINE-142" data-name="SPLINE">
+      <path class="cls-1" d="M362.79,434.04v-.21h0"/>
+    </g>
+    <g id="SPLINE-143" data-name="SPLINE">
+      <path class="cls-1" d="M362.79,433.83h0v.21"/>
+    </g>
+    <g id="SPLINE-144" data-name="SPLINE">
+      <path class="cls-1" d="M362.79,435.19v-.37"/>
+    </g>
+    <g id="SPLINE-145" data-name="SPLINE">
+      <path class="cls-1" d="M362.79,434.82v.37"/>
+    </g>
+    <g id="SPLINE-146" data-name="SPLINE">
+      <path class="cls-1" d="M362.79,435.43v-.12"/>
+    </g>
+    <g id="SPLINE-147" data-name="SPLINE">
+      <path class="cls-1" d="M362.79,435.31v.12"/>
+    </g>
+    <g id="SPLINE-148" data-name="SPLINE">
+      <path class="cls-1" d="M362.79,436.25v-.2"/>
+    </g>
+    <g id="SPLINE-149" data-name="SPLINE">
+      <path class="cls-1" d="M362.79,436.05v.2"/>
+    </g>
+    <g id="SPLINE-150" data-name="SPLINE">
+      <path class="cls-1" d="M362.79,409.57h0v-.04h0v-.02h0s0,0,0,0h0v1.11"/>
+    </g>
+    <g id="SPLINE-151" data-name="SPLINE">
+      <path class="cls-1" d="M362.79,410.62v54.6"/>
+    </g>
+    <g id="SPLINE-152" data-name="SPLINE">
+      <path class="cls-1" d="M49.25,459.77c0,.82,0,1.64,0,2.45,0,.46,0,.92,0,1.38"/>
+    </g>
+    <g id="SPLINE-153" data-name="SPLINE">
+      <path class="cls-1" d="M49.25,454.88c0,.8,0,1.61,0,2.42s0,1.64,0,2.46"/>
+    </g>
+    <g id="SPLINE-154" data-name="SPLINE">
+      <path class="cls-1" d="M49.25,450.01c0,.79,0,1.59,0,2.39s0,1.62,0,2.44"/>
+    </g>
+    <g id="SPLINE-155" data-name="SPLINE">
+      <path class="cls-1" d="M49.25,418.17c0,.69,0,1.4,0,2.13s0,1.48,0,2.25"/>
+    </g>
+    <g id="SPLINE-156" data-name="SPLINE">
+      <path class="cls-1" d="M49.25,414.3c0,.3,0,.6,0,.91s0,.62,0,.94c0,.64,0,1.32,0,2.01"/>
+    </g>
+    <g id="SPLINE-157" data-name="SPLINE">
+      <path class="cls-1" d="M49.25,410.6c0,.59,0,1.24,0,1.86,0,.32,0,.63,0,.93,0,.27,0,.54,0,.8"/>
+    </g>
+    <g id="SPLINE-158" data-name="SPLINE">
+      <path class="cls-1" d="M49.25,407.46c0,.21,0,.45,0,.69,0,.12,0,.25,0,.38,0,.13,0,.26,0,.39,0,.52,0,1.07,0,1.67"/>
+    </g>
+    <g id="LINE-3" data-name="LINE">
+      <line class="cls-1" x1="61.17" y1="537.66" x2="63.87" y2="537.66"/>
+    </g>
+    <g id="SPLINE-159" data-name="SPLINE">
+      <path class="cls-1" d="M517.88,410.59c0-.6,0-1.14,0-1.67,0-.13,0-.26,0-.39s0-.25,0-.38c0-.25,0-.49,0-.69"/>
+    </g>
+    <g id="SPLINE-160" data-name="SPLINE">
+      <path class="cls-1" d="M517.88,414.2c0-.27,0-.53,0-.8,0-.31,0-.62,0-.93,0-.63,0-1.27,0-1.86"/>
+    </g>
+    <g id="SPLINE-161" data-name="SPLINE">
+      <path class="cls-1" d="M517.88,418.16c0-.69,0-1.37,0-2.01,0-.32,0-.64,0-.94s0-.61,0-.91"/>
+    </g>
+    <g id="SPLINE-162" data-name="SPLINE">
+      <path class="cls-1" d="M517.88,422.55c0-.76,0-1.51,0-2.25s0-1.44,0-2.13"/>
+    </g>
+    <g id="SPLINE-163" data-name="SPLINE">
+      <path class="cls-1" d="M517.88,454.84c0-.82,0-1.63,0-2.44s0-1.6,0-2.39"/>
+    </g>
+    <g id="SPLINE-164" data-name="SPLINE">
+      <path class="cls-1" d="M517.88,459.76c0-.82,0-1.64,0-2.46s0-1.62,0-2.42"/>
+    </g>
+    <g id="SPLINE-165" data-name="SPLINE">
+      <path class="cls-1" d="M517.88,463.6c0-.46,0-.92,0-1.38,0-.81,0-1.63,0-2.45"/>
+    </g>
+    <g id="LINE-4" data-name="LINE">
+      <line class="cls-1" x1="279.72" y1="537.66" x2="282.41" y2="537.66"/>
+    </g>
+    <g id="LINE-5" data-name="LINE">
+      <line class="cls-1" x1="44.76" y1="429.72" x2="44.18" y2="429.84"/>
+    </g>
+    <g id="LINE-6" data-name="LINE">
+      <line class="cls-1" x1="279.72" y1="499.9" x2="63.87" y2="499.9"/>
+    </g>
+    <g id="LINE-7" data-name="LINE">
+      <line class="cls-1" x1="498.26" y1="499.9" x2="282.41" y2="499.9"/>
+    </g>
+    <g id="LINE-8" data-name="LINE">
+      <line class="cls-1" x1="204.34" y1="429.55" x2="203.2" y2="429.55"/>
+    </g>
+    <g id="LINE-9" data-name="LINE">
+      <line class="cls-1" x1="363.93" y1="429.55" x2="362.79" y2="429.55"/>
+    </g>
+    <g id="LINE-10" data-name="LINE">
+      <line class="cls-1" x1="362.79" y1="459.02" x2="363.93" y2="459.02"/>
+    </g>
+    <g id="LINE-11" data-name="LINE">
+      <line class="cls-1" x1="203.2" y1="459.02" x2="204.34" y2="459.02"/>
+    </g>
+    <g id="LINE-12" data-name="LINE">
+      <line class="cls-1" x1="522.95" y1="429.84" x2="522.37" y2="429.72"/>
+    </g>
+    <g id="LINE-13" data-name="LINE">
+      <line class="cls-1" x1="44.76" y1="426.39" x2="44.18" y2="426.97"/>
+    </g>
+    <g id="LINE-14" data-name="LINE">
+      <line class="cls-1" x1="205.19" y1="489.67" x2="202.36" y2="489.67"/>
+    </g>
+    <g id="LINE-15" data-name="LINE">
+      <line class="cls-1" x1="364.77" y1="489.67" x2="361.94" y2="489.67"/>
+    </g>
+    <g id="LINE-16" data-name="LINE">
+      <line class="cls-1" x1="282.41" y1="507.44" x2="498.26" y2="507.44"/>
+    </g>
+    <g id="LINE-17" data-name="LINE">
+      <line class="cls-1" x1="63.87" y1="507.44" x2="279.72" y2="507.44"/>
+    </g>
+    <g id="LINE-18" data-name="LINE">
+      <line class="cls-1" x1="204.34" y1="425.53" x2="203.2" y2="425.53"/>
+    </g>
+    <g id="LINE-19" data-name="LINE">
+      <line class="cls-1" x1="363.93" y1="425.53" x2="362.79" y2="425.53"/>
+    </g>
+    <g id="LINE-20" data-name="LINE">
+      <line class="cls-1" x1="522.37" y1="426.39" x2="522.95" y2="426.97"/>
+    </g>
+    <g id="SPLINE-166" data-name="SPLINE">
+      <path class="cls-1" d="M208.84,459.77c0,.82,0,1.64,0,2.45,0,.46,0,.92,0,1.38"/>
+    </g>
+    <g id="SPLINE-167" data-name="SPLINE">
+      <path class="cls-1" d="M208.84,454.88c0,.8,0,1.61,0,2.42s0,1.64,0,2.46"/>
+    </g>
+    <g id="SPLINE-168" data-name="SPLINE">
+      <path class="cls-1" d="M208.84,450.01c0,.79,0,1.59,0,2.39s0,1.62,0,2.44"/>
+    </g>
+    <g id="SPLINE-169" data-name="SPLINE">
+      <path class="cls-1" d="M208.84,418.17c0,.69,0,1.4,0,2.13s0,1.48,0,2.25"/>
+    </g>
+    <g id="SPLINE-170" data-name="SPLINE">
+      <path class="cls-1" d="M208.84,414.3c0,.3,0,.6,0,.91s0,.62,0,.94c0,.64,0,1.32,0,2.01"/>
+    </g>
+    <g id="SPLINE-171" data-name="SPLINE">
+      <path class="cls-1" d="M208.84,410.6c0,.59,0,1.24,0,1.86,0,.32,0,.63,0,.93,0,.27,0,.54,0,.8"/>
+    </g>
+    <g id="SPLINE-172" data-name="SPLINE">
+      <path class="cls-1" d="M208.84,407.46c0,.21,0,.45,0,.69,0,.12,0,.25,0,.38s0,.26,0,.39c0,.52,0,1.07,0,1.67"/>
+    </g>
+    <g id="POLYLINE-22" data-name="POLYLINE">
+      <line class="cls-1" x1="63.87" y1="517.67" x2="279.72" y2="517.67"/>
+    </g>
+    <g id="POLYLINE-23" data-name="POLYLINE">
+      <line class="cls-1" x1="282.41" y1="517.67" x2="498.26" y2="517.67"/>
+    </g>
+    <g id="POLYLINE-24" data-name="POLYLINE">
+      <line class="cls-1" x1="498.26" y1="522.35" x2="282.41" y2="522.35"/>
+    </g>
+    <g id="POLYLINE-25" data-name="POLYLINE">
+      <polyline class="cls-1" points="44.18 505.14 41.49 507.83 31.24 507.83 28.55 505.14 28.55 504.79 28.55 497.11"/>
+    </g>
+    <g id="SPLINE-173" data-name="SPLINE">
+      <path class="cls-1" d="M28.55,497.11v-5.91"/>
+    </g>
+    <g id="POLYLINE-26" data-name="POLYLINE">
+      <polyline class="cls-1" points="28.55 491.2 28.55 444.31 31.24 441.61 41.49 441.61 44.18 444.31"/>
+    </g>
+    <g id="POLYLINE-27" data-name="POLYLINE">
+      <polyline class="cls-1" points="522.95 505.14 525.64 507.83 535.89 507.83 538.58 505.14 538.58 444.31 538.58 451.04 538.58 444.31 535.89 441.61 525.64 441.61 522.95 444.31"/>
+    </g>
+    <g id="SPLINE-174" data-name="SPLINE">
+      <path class="cls-1" d="M44.18,491.15h0v-.02h0s0-.01,0-.01h0v7.27h0v.02h0v.02h0v.02h0v.02h0v.02h0"/>
+    </g>
+    <g id="POLYLINE-28" data-name="POLYLINE">
+      <polyline class="cls-1" points="44.18 498.47 44.18 506 45.62 507.44 61.17 507.44"/>
+    </g>
+    <g id="SPLINE-175" data-name="SPLINE">
+      <path class="cls-1" d="M522.95,491.15h0v-.02h0s0-.01,0-.01h0v7.27h0v.02h0v.02h0v.02h0v.02h0v.02h0"/>
+    </g>
+    <g id="LINE-21" data-name="LINE">
+      <line class="cls-1" x1="522.95" y1="498.47" x2="522.95" y2="505.94"/>
+    </g>
+    <g id="SPLINE-176" data-name="SPLINE">
+      <path class="cls-1" d="M522.95,505.94h0v.03h0v.02h0v.02h0"/>
+    </g>
+    <g id="POLYLINE-29" data-name="POLYLINE">
+      <polyline class="cls-1" points="522.95 506 521.51 507.44 500.96 507.44"/>
+    </g>
+    <g id="POLYLINE-30" data-name="POLYLINE">
+      <polyline class="cls-1" points="63.87 521.92 63.87 522.35 279.72 522.35"/>
+    </g>
+  </g>
+  <g id="Blocks_Outline" data-name="Blocks$Outline">
+    <g id="POLYLINE-31" data-name="POLYLINE">
+      <polyline class="cls-3" points="522.37 409.5 517.88 405.01 368.42 405.01 363.93 409.5"/>
+    </g>
+    <g id="SPLINE-177" data-name="SPLINE">
+      <path class="cls-3" d="M363.93,409.5s0,0,0,0h0v12.71"/>
+    </g>
+    <g id="POLYLINE-32" data-name="POLYLINE">
+      <line class="cls-3" x1="363.93" y1="422.22" x2="363.93" y2="422.33"/>
+    </g>
+    <g id="SPLINE-178" data-name="SPLINE">
+      <path class="cls-3" d="M363.93,422.33v.23"/>
+    </g>
+    <g id="SPLINE-179" data-name="SPLINE">
+      <path class="cls-3" d="M363.93,422.56v.86"/>
+    </g>
+    <g id="SPLINE-180" data-name="SPLINE">
+      <path class="cls-3" d="M363.93,423.42v.16"/>
+    </g>
+    <g id="SPLINE-181" data-name="SPLINE">
+      <path class="cls-3" d="M363.93,423.59v1.94"/>
+    </g>
+    <g id="POLYLINE-33" data-name="POLYLINE">
+      <line class="cls-3" x1="363.93" y1="425.53" x2="362.79" y2="425.53"/>
+    </g>
+    <g id="SPLINE-182" data-name="SPLINE">
+      <path class="cls-3" d="M362.79,425.53v-1.94"/>
+    </g>
+    <g id="SPLINE-183" data-name="SPLINE">
+      <path class="cls-3" d="M362.79,423.59v-.16"/>
+    </g>
+    <g id="SPLINE-184" data-name="SPLINE">
+      <path class="cls-3" d="M362.79,423.42v-.86"/>
+    </g>
+    <g id="SPLINE-185" data-name="SPLINE">
+      <path class="cls-3" d="M362.79,422.56v-.23"/>
+    </g>
+    <g id="POLYLINE-34" data-name="POLYLINE">
+      <line class="cls-3" x1="362.79" y1="422.33" x2="362.79" y2="422.22"/>
+    </g>
+    <g id="SPLINE-186" data-name="SPLINE">
+      <path class="cls-3" d="M362.79,422.22v-12.64h0"/>
+    </g>
+    <g id="SPLINE-187" data-name="SPLINE">
+      <path class="cls-3" d="M362.79,409.57h0v-.04h0v-.02h0"/>
+    </g>
+    <g id="POLYLINE-35" data-name="POLYLINE">
+      <polyline class="cls-3" points="362.79 409.5 358.29 405.01 208.84 405.01 204.34 409.5"/>
+    </g>
+    <g id="SPLINE-188" data-name="SPLINE">
+      <path class="cls-3" d="M204.34,409.5h0v16.02"/>
+    </g>
+    <g id="POLYLINE-36" data-name="POLYLINE">
+      <line class="cls-3" x1="204.34" y1="425.53" x2="203.2" y2="425.53"/>
+    </g>
+    <g id="SPLINE-189" data-name="SPLINE">
+      <path class="cls-3" d="M203.2,425.53v-1.94"/>
+    </g>
+    <g id="SPLINE-190" data-name="SPLINE">
+      <path class="cls-3" d="M203.2,423.59v-.16"/>
+    </g>
+    <g id="SPLINE-191" data-name="SPLINE">
+      <path class="cls-3" d="M203.2,423.42v-.86"/>
+    </g>
+    <g id="SPLINE-192" data-name="SPLINE">
+      <path class="cls-3" d="M203.2,422.56v-.23"/>
+    </g>
+    <g id="POLYLINE-37" data-name="POLYLINE">
+      <line class="cls-3" x1="203.2" y1="422.33" x2="203.2" y2="422.22"/>
+    </g>
+    <g id="SPLINE-193" data-name="SPLINE">
+      <path class="cls-3" d="M203.2,422.22v-12.64h0"/>
+    </g>
+    <g id="SPLINE-194" data-name="SPLINE">
+      <path class="cls-3" d="M203.2,409.57h0v-.04h0v-.02h0s0,0,0,0"/>
+    </g>
+    <g id="POLYLINE-38" data-name="POLYLINE">
+      <polyline class="cls-3" points="203.2 409.5 198.71 405.01 49.25 405.01 44.76 409.5"/>
+    </g>
+    <g id="SPLINE-195" data-name="SPLINE">
+      <path class="cls-3" d="M44.76,409.5h0v16.89"/>
+    </g>
+    <g id="POLYLINE-39" data-name="POLYLINE">
+      <line class="cls-3" x1="44.76" y1="426.39" x2="44.18" y2="426.97"/>
+    </g>
+    <g id="SPLINE-196" data-name="SPLINE">
+      <path class="cls-3" d="M44.18,426.97s0,0,0,0h0v17.34"/>
+    </g>
+    <g id="SPLINE-197" data-name="SPLINE">
+      <path class="cls-3" d="M44.18,444.31c-.9-.9-1.8-1.8-2.7-2.7-3.41,0-6.83,0-10.24,0-.9.9-1.8,1.8-2.7,2.7,0,15.63,0,31.26,0,46.89v13.59"/>
+    </g>
+    <g id="POLYLINE-40" data-name="POLYLINE">
+      <line class="cls-3" x1="28.55" y1="504.79" x2="28.55" y2="505.14"/>
+    </g>
+    <g id="POLYLINE-41" data-name="POLYLINE">
+      <polyline class="cls-3" points="28.55 505.14 31.24 507.83 41.49 507.83 44.18 505.14"/>
+    </g>
+    <g id="SPLINE-198" data-name="SPLINE">
+      <path class="cls-3" d="M44.18,505.14v.87"/>
+    </g>
+    <g id="POLYLINE-42" data-name="POLYLINE">
+      <polyline class="cls-3" points="44.18 506 45.62 507.44 61.17 507.44"/>
+    </g>
+    <g id="POLYLINE-43" data-name="POLYLINE">
+      <polyline class="cls-3" points="61.17 507.44 61.17 537.91 63.87 537.91 63.87 521.92"/>
+    </g>
+    <g id="POLYLINE-44" data-name="POLYLINE">
+      <line class="cls-3" x1="63.87" y1="521.92" x2="63.87" y2="522.35"/>
+    </g>
+    <g id="POLYLINE-45" data-name="POLYLINE">
+      <line class="cls-3" x1="63.87" y1="522.35" x2="279.72" y2="522.35"/>
+    </g>
+    <g id="POLYLINE-46" data-name="POLYLINE">
+      <polyline class="cls-3" points="279.72 522.35 279.72 537.91 282.41 537.91 282.41 522.35"/>
+    </g>
+    <g id="POLYLINE-47" data-name="POLYLINE">
+      <line class="cls-3" x1="282.41" y1="522.35" x2="498.26" y2="522.35"/>
+    </g>
+    <g id="POLYLINE-48" data-name="POLYLINE">
+      <line class="cls-3" x1="498.26" y1="522.35" x2="498.26" y2="537.66"/>
+    </g>
+    <g id="POLYLINE-49" data-name="POLYLINE">
+      <polyline class="cls-3" points="498.26 537.66 498.26 537.91 500.96 537.91 500.96 537.66"/>
+    </g>
+    <g id="POLYLINE-50" data-name="POLYLINE">
+      <line class="cls-3" x1="500.96" y1="537.66" x2="500.96" y2="507.44"/>
+    </g>
+    <g id="POLYLINE-51" data-name="POLYLINE">
+      <polyline class="cls-3" points="500.96 507.44 521.51 507.44 522.95 506"/>
+    </g>
+    <g id="SPLINE-199" data-name="SPLINE">
+      <path class="cls-3" d="M522.95,506h0v-.02h0v-.03h0v-.81"/>
+    </g>
+    <g id="POLYLINE-52" data-name="POLYLINE">
+      <polyline class="cls-3" points="522.95 505.14 525.64 507.83 535.89 507.83 538.58 505.14"/>
+    </g>
+    <g id="POLYLINE-53" data-name="POLYLINE">
+      <line class="cls-3" x1="538.58" y1="505.14" x2="538.58" y2="451.04"/>
+    </g>
+    <g id="POLYLINE-54" data-name="POLYLINE">
+      <line class="cls-3" x1="538.58" y1="451.04" x2="538.58" y2="444.31"/>
+    </g>
+    <g id="POLYLINE-55" data-name="POLYLINE">
+      <polyline class="cls-3" points="538.58 444.31 535.89 441.61 525.64 441.61 522.95 444.31"/>
+    </g>
+    <g id="SPLINE-200" data-name="SPLINE">
+      <path class="cls-3" d="M522.95,444.31v-16.91"/>
+    </g>
+    <g id="SPLINE-201" data-name="SPLINE">
+      <path class="cls-3" d="M522.95,427.4v-.43h0"/>
+    </g>
+    <g id="POLYLINE-56" data-name="POLYLINE">
+      <line class="cls-3" x1="522.95" y1="426.97" x2="522.37" y2="426.39"/>
+    </g>
+    <g id="SPLINE-202" data-name="SPLINE">
+      <path class="cls-3" d="M522.37,426.39v-16.81h0"/>
+    </g>
+    <g id="SPLINE-203" data-name="SPLINE">
+      <path class="cls-3" d="M522.37,409.57h0v-.04h0v-.02h0"/>
+    </g>
+    <g id="POLYLINE-57" data-name="POLYLINE">
+      <line class="cls-3" x1="279.72" y1="517.67" x2="63.87" y2="517.67"/>
+    </g>
+    <g id="POLYLINE-58" data-name="POLYLINE">
+      <line class="cls-3" x1="63.87" y1="517.67" x2="63.87" y2="507.44"/>
+    </g>
+    <g id="POLYLINE-59" data-name="POLYLINE">
+      <line class="cls-3" x1="63.87" y1="507.44" x2="279.72" y2="507.44"/>
+    </g>
+    <g id="POLYLINE-60" data-name="POLYLINE">
+      <line class="cls-3" x1="279.72" y1="507.44" x2="279.72" y2="517.67"/>
+    </g>
+    <g id="POLYLINE-61" data-name="POLYLINE">
+      <line class="cls-3" x1="282.41" y1="507.44" x2="498.26" y2="507.44"/>
+    </g>
+    <g id="POLYLINE-62" data-name="POLYLINE">
+      <line class="cls-3" x1="498.26" y1="507.44" x2="498.26" y2="517.67"/>
+    </g>
+    <g id="POLYLINE-63" data-name="POLYLINE">
+      <line class="cls-3" x1="498.26" y1="517.67" x2="282.41" y2="517.67"/>
+    </g>
+    <g id="POLYLINE-64" data-name="POLYLINE">
+      <line class="cls-3" x1="282.41" y1="517.67" x2="282.41" y2="507.44"/>
+    </g>
+  </g>
+</svg>

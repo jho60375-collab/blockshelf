@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 566.93 566.93">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        stroke-width: .75px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+        stroke: #080808;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-2 {
+        stroke-dasharray: 0 0 1 3;
+      }
+
+      .cls-3, .cls-4 {
+        stroke-width: 1.5px;
+      }
+
+      .cls-4 {
+        fill: #fff;
+        fill-rule: evenodd;
+        stroke: #080808;
+      }
+    </style>
+  </defs>
+  <g id="Ground_Låst" data-name="Ground Låst">
+    <g id="POLYLINE">
+      <line class="cls-2" x1="28.35" y1="538.58" x2="538.58" y2="538.58"/>
+    </g>
+  </g>
+  <g id="Blocks_Fill" data-name="Blocks$Fill">
+    <g id="HATCH">
+      <polygon class="cls-4" points="46.91 371.11 520.02 371.11 520.72 371.81 520.72 376.46 520.02 377.16 520.25 377.16 520.48 377.39 520.48 538.35 520.25 538.58 511.41 538.58 511.18 538.35 511.18 386.46 508.97 386.46 509.2 386.69 509.2 538.35 508.97 538.58 507.11 538.58 506.88 538.35 506.88 386.69 507.11 386.46 59.82 386.46 60.05 386.69 60.05 538.35 59.82 538.58 57.96 538.58 57.73 538.35 57.73 386.69 57.96 386.46 55.75 386.46 55.75 538.35 55.52 538.58 46.68 538.58 46.44 538.35 46.44 377.39 46.68 377.16 46.91 377.16 46.21 376.46 46.21 371.81 46.91 371.11"/>
+    </g>
+  </g>
+  <g id="Blocks_Inner" data-name="Blocks$Inner">
+    <g id="POLYLINE-2" data-name="POLYLINE">
+      <polyline class="cls-1" points="507.11 386.46 506.88 386.69 506.88 538.35 507.11 538.58 508.97 538.58 509.2 538.35 509.2 386.69 508.97 386.46"/>
+    </g>
+    <g id="POLYLINE-3" data-name="POLYLINE">
+      <polyline class="cls-1" points="46.91 377.16 46.21 376.46 46.21 371.81 46.91 371.11 520.02 371.11 520.72 371.81 520.72 376.46 520.02 377.16"/>
+    </g>
+    <g id="POLYLINE-4" data-name="POLYLINE">
+      <polyline class="cls-1" points="59.82 386.46 60.05 386.69 60.05 538.35 59.82 538.58 57.96 538.58 57.73 538.35 57.73 386.69 57.96 386.46"/>
+    </g>
+    <g id="POLYLINE-5" data-name="POLYLINE">
+      <polygon class="cls-1" points="511.41 538.58 511.18 538.35 511.18 386.46 55.75 386.46 55.75 538.35 55.52 538.58 46.68 538.58 46.44 538.35 46.44 377.39 46.68 377.16 520.25 377.16 520.48 377.39 520.48 538.35 520.25 538.58 511.41 538.58"/>
+    </g>
+  </g>
+  <g id="Blocks_Outline" data-name="Blocks$Outline">
+    <g id="POLYLINE-6" data-name="POLYLINE">
+      <line class="cls-3" x1="46.91" y1="371.11" x2="520.02" y2="371.11"/>
+    </g>
+    <g id="POLYLINE-7" data-name="POLYLINE">
+      <line class="cls-3" x1="520.02" y1="371.11" x2="520.72" y2="371.81"/>
+    </g>
+    <g id="POLYLINE-8" data-name="POLYLINE">
+      <line class="cls-3" x1="520.72" y1="371.81" x2="520.72" y2="376.46"/>
+    </g>
+    <g id="POLYLINE-9" data-name="POLYLINE">
+      <line class="cls-3" x1="520.72" y1="376.46" x2="520.02" y2="377.16"/>
+    </g>
+    <g id="POLYLINE-10" data-name="POLYLINE">
+      <line class="cls-3" x1="520.02" y1="377.16" x2="520.25" y2="377.16"/>
+    </g>
+    <g id="POLYLINE-11" data-name="POLYLINE">
+      <line class="cls-3" x1="520.25" y1="377.16" x2="520.48" y2="377.39"/>
+    </g>
+    <g id="POLYLINE-12" data-name="POLYLINE">
+      <line class="cls-3" x1="520.48" y1="377.39" x2="520.48" y2="538.35"/>
+    </g>
+    <g id="POLYLINE-13" data-name="POLYLINE">
+      <line class="cls-3" x1="520.48" y1="538.35" x2="520.25" y2="538.58"/>
+    </g>
+    <g id="POLYLINE-14" data-name="POLYLINE">
+      <line class="cls-3" x1="520.25" y1="538.58" x2="511.41" y2="538.58"/>
+    </g>
+    <g id="POLYLINE-15" data-name="POLYLINE">
+      <line class="cls-3" x1="511.41" y1="538.58" x2="511.18" y2="538.35"/>
+    </g>
+    <g id="POLYLINE-16" data-name="POLYLINE">
+      <line class="cls-3" x1="511.18" y1="538.35" x2="511.18" y2="386.46"/>
+    </g>
+    <g id="POLYLINE-17" data-name="POLYLINE">
+      <line class="cls-3" x1="511.18" y1="386.46" x2="508.97" y2="386.46"/>
+    </g>
+    <g id="POLYLINE-18" data-name="POLYLINE">
+      <line class="cls-3" x1="508.97" y1="386.46" x2="509.2" y2="386.69"/>
+    </g>
+    <g id="POLYLINE-19" data-name="POLYLINE">
+      <line class="cls-3" x1="509.2" y1="386.69" x2="509.2" y2="538.35"/>
+    </g>
+    <g id="POLYLINE-20" data-name="POLYLINE">
+      <line class="cls-3" x1="509.2" y1="538.35" x2="508.97" y2="538.58"/>
+    </g>
+    <g id="POLYLINE-21" data-name="POLYLINE">
+      <line class="cls-3" x1="508.97" y1="538.58" x2="507.11" y2="538.58"/>
+    </g>
+    <g id="POLYLINE-22" data-name="POLYLINE">
+      <line class="cls-3" x1="507.11" y1="538.58" x2="506.88" y2="538.35"/>
+    </g>
+    <g id="POLYLINE-23" data-name="POLYLINE">
+      <line class="cls-3" x1="506.88" y1="538.35" x2="506.88" y2="386.69"/>
+    </g>
+    <g id="POLYLINE-24" data-name="POLYLINE">
+      <line class="cls-3" x1="506.88" y1="386.69" x2="507.11" y2="386.46"/>
+    </g>
+    <g id="POLYLINE-25" data-name="POLYLINE">
+      <line class="cls-3" x1="507.11" y1="386.46" x2="59.82" y2="386.46"/>
+    </g>
+    <g id="POLYLINE-26" data-name="POLYLINE">
+      <line class="cls-3" x1="59.82" y1="386.46" x2="60.05" y2="386.69"/>
+    </g>
+    <g id="POLYLINE-27" data-name="POLYLINE">
+      <line class="cls-3" x1="60.05" y1="386.69" x2="60.05" y2="538.35"/>
+    </g>
+    <g id="POLYLINE-28" data-name="POLYLINE">
+      <line class="cls-3" x1="60.05" y1="538.35" x2="59.82" y2="538.58"/>
+    </g>
+    <g id="POLYLINE-29" data-name="POLYLINE">
+      <line class="cls-3" x1="59.82" y1="538.58" x2="57.96" y2="538.58"/>
+    </g>
+    <g id="POLYLINE-30" data-name="POLYLINE">
+      <line class="cls-3" x1="57.96" y1="538.58" x2="57.73" y2="538.35"/>
+    </g>
+    <g id="POLYLINE-31" data-name="POLYLINE">
+      <line class="cls-3" x1="57.73" y1="538.35" x2="57.73" y2="386.69"/>
+    </g>
+    <g id="POLYLINE-32" data-name="POLYLINE">
+      <line class="cls-3" x1="57.73" y1="386.69" x2="57.96" y2="386.46"/>
+    </g>
+    <g id="POLYLINE-33" data-name="POLYLINE">
+      <line class="cls-3" x1="57.96" y1="386.46" x2="55.75" y2="386.46"/>
+    </g>
+    <g id="POLYLINE-34" data-name="POLYLINE">
+      <line class="cls-3" x1="55.75" y1="386.46" x2="55.75" y2="538.35"/>
+    </g>
+    <g id="POLYLINE-35" data-name="POLYLINE">
+      <line class="cls-3" x1="55.75" y1="538.35" x2="55.52" y2="538.58"/>
+    </g>
+    <g id="POLYLINE-36" data-name="POLYLINE">
+      <line class="cls-3" x1="55.52" y1="538.58" x2="46.68" y2="538.58"/>
+    </g>
+    <g id="POLYLINE-37" data-name="POLYLINE">
+      <line class="cls-3" x1="46.68" y1="538.58" x2="46.44" y2="538.35"/>
+    </g>
+    <g id="POLYLINE-38" data-name="POLYLINE">
+      <line class="cls-3" x1="46.44" y1="538.35" x2="46.44" y2="377.39"/>
+    </g>
+    <g id="POLYLINE-39" data-name="POLYLINE">
+      <line class="cls-3" x1="46.44" y1="377.39" x2="46.68" y2="377.16"/>
+    </g>
+    <g id="POLYLINE-40" data-name="POLYLINE">
+      <line class="cls-3" x1="46.68" y1="377.16" x2="46.91" y2="377.16"/>
+    </g>
+    <g id="POLYLINE-41" data-name="POLYLINE">
+      <line class="cls-3" x1="46.91" y1="377.16" x2="46.21" y2="376.46"/>
+    </g>
+    <g id="POLYLINE-42" data-name="POLYLINE">
+      <line class="cls-3" x1="46.21" y1="376.46" x2="46.21" y2="371.81"/>
+    </g>
+    <g id="POLYLINE-43" data-name="POLYLINE">
+      <line class="cls-3" x1="46.21" y1="371.81" x2="46.91" y2="371.11"/>
+    </g>
+  </g>
+</svg>
